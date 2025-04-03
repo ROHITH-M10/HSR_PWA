@@ -24,6 +24,11 @@ function App() {
     window.scrollTo(0, 0);
   }
 
+  function handleHomeClick() {
+    setIsLogin(false); // Reset to home page
+    window.scrollTo(0, 0);
+  }
+
 
   return (
     <div>
