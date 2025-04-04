@@ -29,7 +29,7 @@ function Home({
         />
       </div>
 
-      <div className="home-title">AIMS HSR App</div>
+      <div className="home-title">AIMS HSR Portal</div>
       <p className="home-text">
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi et dicta porro animi nostrum ab exercitationem natus doloremque error assumenda! Tenetur distinctio unde voluptatibus suscipit aperiam ut fugiat sunt impedit.
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum expedita, dolorem nisi sint dolore ipsa consequuntur consequatur, alias possimus veniam corporis doloremque atque molestias incidunt error sequi numquam recusandae vel?

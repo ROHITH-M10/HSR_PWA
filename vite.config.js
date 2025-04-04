@@ -13,9 +13,9 @@ export default defineConfig({
         enabled: true
       },
       manifest: {
-        name: "AIMS HSR App",
-        short_name: "AIMS HSR App",
-        description: "AIMS HSR App",
+        name: "AIMS HSR Portal",
+        short_name: "AIMS HSR Portal",
+        description: "AIMS HSR Portal",
         theme_color: "#ffffff",
         background_color: "#ffffff",
         display: "standalone",
